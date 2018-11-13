@@ -6,5 +6,8 @@ Author: Renz Rallion T. Gomez
 ### Compilation.java
 
 Inside the Compilation.java, the collected java files of all activities are attached.
+### QuickSort.java
+
+Inside the QuickSort.java, the code containing the Quick Sort Algorithm. User input feature has been added to the code. 
 
 # CC2-Project

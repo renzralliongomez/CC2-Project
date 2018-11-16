@@ -47,7 +47,7 @@ public class Activity9 {
         }
         
         for(int b = 0; b < a; b++){
-            System.out.print("f("+b+")\t");
+            System.out.print("f("+arr[b]+")\t");
         }
         System.out.print("\n");
         
@@ -69,7 +69,7 @@ public class Activity9 {
         }
         
         for(int b = 0; b < a; b++){
-            System.out.print("f("+b+")\t");
+            System.out.print("f("+arr[b]+")\t");
         }
         System.out.print("\n");
         
